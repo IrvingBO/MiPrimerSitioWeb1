@@ -1,0 +1,18 @@
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll.config
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.pdb
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.dll
+C:\Users\luisa_000\Desktop\ITCA 4° SEMESTRE\analisis y modelado de sistemas de informacion\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.pdb
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll.config
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.pdb
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.csprojResolveAssemblyReference.cache
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.dll
+F:\MiPrimerSitioWeb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.pdb
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll.config
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.dll
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\bin\MiPrimerSitioWeb.pdb
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.csprojResolveAssemblyReference.cache
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.dll
+C:\Users\hp lap\Documents\Visual Studio 2015\Projects\Miprimersitioweb\MiPrimerSitioWeb\obj\Debug\MiPrimerSitioWeb.pdb
